@@ -1,0 +1,24 @@
+canvas{
+
+    margin: 40px;
+    background-color: rgb(50, 135, 209);
+    border-radius: 40px;
+}
+
+#btn_1{
+    margin: 20px;
+}
+#btn_2{
+    margin: 20px;
+}
+img{
+    border-radius: 40px;
+}
+body{
+    background-color: blanchedalmond;
+}
+hr{
+    background-color: black;
+    width: 100%;
+    height: 4px;
+}
